@@ -1,6 +1,7 @@
 # Human Resource Forecasting Model
 
 In this capstone project, I combine concepts of HR strategy and financial forecasting. The purpose of this HR Forecasting Model is twofold: to determine whether the company should change its compensation structure and to determine the number of people to hire to achieve the revenue target. To provide more context, I then put together an interactive dashboard designed to help the HR team easily visualize the new compensation model in effect.  
+
 To set a specific benchmark for my baseline model, I assume that the board has set a goal to make a gross revenue of $1 billion in the following year, and the human resources (HR) department must optimize hiring planning as well as the compensation structure. The original .xlsx file of the data set used can be found here.
 
 **Goal** 
