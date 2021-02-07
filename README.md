@@ -27,6 +27,6 @@ The figure below compares the forecasted model to the baseline model. I increase
 
 **Final Note**
 
-To finish off my analysis, I put together a dashboard to analyze performance at the job-title level. Rather than modeling high-level strategies for increasing company gross revenue, I wanted to build a dashboard to help the HR team easily visualize the new compensation model in effect and to understand the combined performance of all employees. The resulting dashboard drill into the data by job category at the employee level to identify employee performances that lie above or below a certain level.
+To finish off my analysis, I put together an interactive Excel dashboard to analyze performance at the job-title level. Rather than modeling high-level strategies for increasing company gross revenue, I wanted to build a dashboard to help the HR team easily visualize the new compensation model in effect and to understand the combined performance of all employees. The resulting dashboard drill into the data by job category at the employee level to identify employee performances that lie above or below a certain level.
 
 
