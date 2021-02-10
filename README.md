@@ -22,8 +22,7 @@ Increase the headcount.
 I found that there are pros and cons to each strategy and that it is unlikely that I reach the revenue goal of $1 billion by relying on one strategy. I decided to optimize all three by blending them together: modifying quotas, growth, headcount, and commission structure.
 The figure below compares the forecasted model to the baseline model. I increase the headcount by 200, increase both the commission and base pay, and assume there is robust growth in the number of accounts closed. 
 
-
-![Alt text](/HRCompensationForecasting.png?raw=true "Baseline vs. Forecasted")
+![Alt Text](image/HRCompensationForecasting.png)
 
 **Final Note**
 
